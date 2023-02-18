@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Computer Science**
 
-- 💬 Ask me about **ReactJs, Bootstrap, JavaScript, Programming Languages(C++, Java, Python)**
+- 💬 Ask me about **ReactJs, Bootstrap, ExpressJs, JavaScript, Programming Languages(C++, Java, Python)**
 
 - 📫 How to reach me **amjadpitafi070@gmail.com**
 
