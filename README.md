@@ -51,13 +51,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
 </div>
 
-<p align="left">
-<a href="https://codepen.io/amjadali070" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="amjadali070" height="30" width="40" /></a>
-<a href="https://twitter.com/amjadali070" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amjadali070" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/amjad-ali-207735172" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amjad-ali-207735172" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/amjad-ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="amjad-ali" height="30" width="40" /></a>
-<a href="https://instagram.com/amjadali070" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amjadali070" height="30" width="40" /></a>
+<p style="margin-top: 5px;"></p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amjadali070&show_icons=true&locale=en&layout=compact" alt="amjadali070" />
 </p>
- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amjadali070&show_icons=true&locale=en&layout=compact" alt="amjadali070" /></p>
-
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+</p>
