@@ -9,16 +9,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amjadali070&label=Profile%20views&color=0e75b6&style=flat" alt="amjadali070" /> </p>
 
 
-
-
-<p align="left">
-<a href="https://codepen.io/amjadali070" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="amjadali070" height="30" width="40" /></a>
-<a href="https://twitter.com/amjadali070" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amjadali070" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/amjad-ali-207735172" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amjad-ali-207735172" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/amjad-ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="amjad-ali" height="30" width="40" /></a>
-<a href="https://instagram.com/amjadali070" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amjadali070" height="30" width="40" /></a>
-</p>
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
