@@ -1,11 +1,10 @@
 <h3 align="center">👋 Welcome to my GitHub playground, where code meets creativity! 🚀</h3> 
-### 
+
 <p align="center">Passionate web developer creating user-friendly, dynamic websites</p> 
-### 
+
 <h2 align="left">About me</h2> 
-### 
+
 <p align="left">👨‍💻 Software Developer<br>🌟 Front-end Developer at Charcentric<br>🚀 MERN Stack Specialist<br>💡 Passionate about clean code and user-centric solutions</p> 
-### 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amjadali070&label=Profile%20views&color=0e75b6&style=flat" alt="amjadali070" /> </p>
 
