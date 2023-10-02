@@ -1,13 +1,15 @@
-<h1 align="center">Hey there 👋, I'm Amjad Ali</h1>
-<h3 align="center">Web Developer with a passion for creating intuitive and dynamic websites that enhance the user experience.</h3>
+<h3 align="center">👋 Welcome to my GitHub playground, where code meets creativity! 🚀</h3> 
+### 
+<p align="center">Passionate web developer creating user-friendly, dynamic websites</p> 
+### 
+<h2 align="left">About me</h2> 
+### 
+<p align="left">👨‍💻 Software Developer<br>🌟 Front-end Developer at Charcentric<br>🚀 MERN Stack Specialist<br>💡 Passionate about clean code and user-centric solutions</p> 
+### 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amjadali070&label=Profile%20views&color=0e75b6&style=flat" alt="amjadali070" /> </p>
 
-- 🌱 I’m currently learning **Computer Science**
 
-- 💬 Ask me about **ReactJs, Bootstrap, ExpressJs, JavaScript, Programming Languages(C++, Java, Python)**
-
-- 📫 How to reach me **amjadpitafi070@gmail.com**
 
 
 <p align="left">
